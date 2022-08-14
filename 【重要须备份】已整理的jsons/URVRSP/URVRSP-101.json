@@ -1,0 +1,37 @@
+{
+    "Car": "URVRSP-101",
+    "CarOrigin": "urvrsp00101",
+    "Series": "unfinished VR",
+    "Title": "\u3010VR\u3011\u6ce5\u25cf\u3057\u305f\u50d5\u3092\u4ecb\u62b1\u3057\u3066\u304f\u308c\u305f\u306e\u306f\u5f8c\u8f29\u306e\u7f8e\u4eba\u90e8\u4e0b\u3002\u610f\u8b58\u6726\u6727\u3068\u3057\u3066\u3044\u308b\u3068\u300c\u5c11\u3057\u4f11\u3093\u3067\u5e30\u308a\u307e\u3057\u3087\u300d\u3068\u8a98\u308f\u308c\u6c17\u4ed8\u3044\u305f\u3089\u30e9\u30d6\u30db\u30c6\u30eb\u2026\u50d5\u3092\u898b\u3064\u3081\u308b\u5f8c\u8f29\u306b\u50d5\u306f\u2026 \u3055\u308a\u306a",
+    "TitleZh": "\u3010VR\u3011\u7167\u987e\u6ce5\u5df4\u7684\u6211\u7684\u662f\u540e\u8f88\u7684\u7f8e\u4eba\u90e8\u4e0b\u3002\u610f\u8bc6\u6726\u80e7\u7684\u65f6\u5019\uff0c\u88ab\u9080\u8bf7\u201c\u7a0d\u5fae\u4f11\u606f\u4e00\u4e0b\u518d\u56de\u53bb\u5427\u201d\uff0c\u6ce8\u610f\u5230\u7684\u65f6\u5019\u53d1\u73b0\u4e86\u60c5\u4eba\u65c5\u9986\u2026\u2026\u6211\u88ab\u76ef\u7740\u6211\u7684\u540e\u8f88",
+    "Plot": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65e0\u7b80\u4ecb\u3011",
+    "PlotZh": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65f6\u65e0\u7b80\u4ecb\u3011",
+    "Review": "",
+    "Release": "2021-03-11",
+    "Runtime": 102,
+    "Director": "\u51db\u3005",
+    "Studio": "unfinished",
+    "Publisher": "Marrion_Group_VR",
+    "Score": 75,
+    "CoverLibrary": "http://pics.dmm.co.jp/digital/video/urvrsp00101/urvrsp00101pl.jpg",
+    "CoverBus": "85tg_b.jpg",
+    "CutType": 1,
+    "Javdb": "7azYM",
+    "Javlibrary": "javme5a3r4",
+    "Javbus": "URVRSP-101",
+    "Arzon": "",
+    "CompletionStatus": 6,
+    "Version": 1,
+    "Genres": [
+        "\u4e2d\u51fa",
+        "VR",
+        "\u9152\u4f1a",
+        "\u4e0b\u5c5e\u00b7\u540c\u4e8b",
+        "\u7cbe\u9009\u7efc\u5408",
+        "\u5de8\u4e73"
+    ],
+    "Actors": [
+        "\u767e\u6c38\u3055\u308a\u306a"
+    ],
+    "Modify": "2021-11-20 15:19:41"
+}

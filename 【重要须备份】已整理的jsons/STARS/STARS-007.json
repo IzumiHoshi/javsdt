@@ -1,0 +1,36 @@
+{
+    "Car": "STARS-007",
+    "CarOrigin": "1stars007",
+    "Series": "SODstardebut",
+    "Title": "\u6210\u5bae\u308a\u304b SODstar DEBUT\uff01 \u4e2d\u51fa\u3057\u89e3\u7981 \u8a086\u767a",
+    "TitleZh": "\u6210\u5bab\u308a\u304bSODstar DEBUT\uff01\u4e2d\u51fa\u89e3\u7981\u8ba16\u53d1",
+    "Plot": "\u6210\u5bae\u308a\u304b\u304c\u3001\u4e2d\u51fa\u3057\u89e3\u7981\uff06SODstar\u30c7\u30d3\u30e5\u30fc\uff01\u4e2d\u306b\u51fa\u3055\u305b\u3066\u3042\u3052\u305f\u3044\u3068\u3044\u3046\u6c17\u6301\u3061\u306e\u82bd\u751f\u3048\u3068\u3001\u5b50\u5bae\u304c\u5927\u91cf\u306e\u767d\u6fc1\u30b6\u30fc\u30e1\u30f3\u3067\u6e80\u305f\u3055\u308c\u308b\u60a6\u3073\u3067\u3001\u53ef\u6190\u306a\u5c11\u5973\u304c\u5927\u4eba\u306e\u5973\u6027\u3078\u3068\u5909\u8c8c\u3002\u8584\u6bdb\u30de\u25cb\u30b3\u304c\u7cbe\u6db2\u3067\u6e80\u305f\u3055\u308c\u308b\uff01",
+    "PlotZh": "\u6210\u5bab\u308a\u304b\u3001\u4e2d\u51fa\u89e3\u7981&SODstar\u51fa\u9053\uff01\u60f3\u8ba9\u5979\u51fa\u6765\u7684\u5fc3\u60c5\u7684\u840c\u82bd\uff0c\u4ee5\u53ca\u5b50\u5bab\u88ab\u5927\u91cf\u7684\u767d\u6d4a\u7cbe\u6db2\u586b\u6ee1\u7684\u559c\u60a6\uff0c\u53ef\u7231\u7684\u5c11\u5973\u53d8\u6210\u4e86\u6210\u719f\u7684\u5973\u6027\u3002\u6bdb\u53d1\u7a00\u5c11\u25cb\u4e2a\u88ab\u7cbe\u6db2\u586b\u6ee1\uff01",
+    "Review": "",
+    "Release": "2018-11-22",
+    "Runtime": 125,
+    "Director": "\u671d\u9727\u6d44",
+    "Studio": "SOD Create",
+    "Publisher": "SOD star",
+    "Score": 66,
+    "CoverLibrary": "http://pics.dmm.co.jp/mono/movie/adult/1stars007/1stars007pl.jpg",
+    "CoverBus": "6vfz_b.jpg",
+    "CutType": 1,
+    "Javdb": "ZN7Zq",
+    "Javlibrary": "javli7ta2q",
+    "Javbus": "STARS-007",
+    "Arzon": "1487196",
+    "CompletionStatus": 6,
+    "Version": 1,
+    "Genres": [
+        "\u5236\u670d",
+        "\u591aP",
+        "\u4e2d\u51fa",
+        "\u6570\u4f4d\u9a6c\u8d5b\u514b",
+        "\u5355\u4f53\u4f5c\u54c1"
+    ],
+    "Actors": [
+        "\u6210\u5bae\u308a\u304b"
+    ],
+    "Modify": "2021-09-25 19:50:05"
+}

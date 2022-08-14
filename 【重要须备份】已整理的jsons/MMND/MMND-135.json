@@ -1,0 +1,35 @@
+{
+    "Car": "MMND-135",
+    "CarOrigin": "mmnd135",
+    "Series": "\u3084\u308a\u3059\u304e\u3063\uff08\u672a\u6e80\uff09",
+    "Title": "\u3084\u308a\u3059\u304e\u3063",
+    "TitleZh": "\u505a\u8fc7\u5934\u4e86",
+    "Plot": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65e0\u7b80\u4ecb\u3011",
+    "PlotZh": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65f6\u65e0\u7b80\u4ecb\u3011",
+    "Review": "",
+    "Release": "2016-12-08",
+    "Runtime": 120,
+    "Director": "\u5ca9\u6fa4\u6709\u8a18",
+    "Studio": "\u672a\u6e80",
+    "Publisher": "\u672a\u6e80",
+    "Score": 80,
+    "CoverLibrary": "http://pics.dmm.co.jp/mono/movie/adult/mmnd135/mmnd135pl.jpg",
+    "CoverBus": "5rc0_b.jpg",
+    "CutType": 1,
+    "Javdb": "OXRn0",
+    "Javlibrary": "javlil3444",
+    "Javbus": "MMND-135",
+    "Arzon": "",
+    "CompletionStatus": 6,
+    "Version": 1,
+    "Genres": [
+        "\u4e73\u6db2",
+        "\u7f8e\u5c11\u5973",
+        "\u604b\u4e73\u7656",
+        "\u5355\u4f53\u4f5c\u54c1"
+    ],
+    "Actors": [
+        "\u9234\u6728\u5fc3\u6625"
+    ],
+    "Modify": "2021-09-25 17:47:38"
+}

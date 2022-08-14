@@ -1,0 +1,37 @@
+{
+    "Car": "SIVR-030",
+    "CarOrigin": "sivr00030",
+    "Series": "\u4ea4\u308f\u308b\u4f53\u6db2\u3001\u6fc3\u5bc6\u30bb\u30c3\u30af\u30b9VR",
+    "Title": "\u3010VR\u3011\u4ea4\u308f\u308b\u4f53\u6db2\u3001\u6fc3\u5bc6\u30bb\u30c3\u30af\u30b9",
+    "TitleZh": "\u3010VR\u3011\u76f8\u4ea4\u4f53\u6db2\uff0c\u6d53\u539a\u505a\u7231",
+    "Plot": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65e0\u7b80\u4ecb\u3011",
+    "PlotZh": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65f6\u65e0\u7b80\u4ecb\u3011",
+    "Review": "",
+    "Release": "2018-10-07",
+    "Runtime": 78,
+    "Director": "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09",
+    "Studio": "S1 NO.1 STYLE",
+    "Publisher": "S1 VR",
+    "Score": 83,
+    "CoverLibrary": "http://pics.dmm.co.jp/digital/video/sivr00030/sivr00030pl.jpg",
+    "CoverBus": "6rfl_b.jpg",
+    "CutType": 1,
+    "Javdb": "kK6MP",
+    "Javlibrary": "javli7l73i",
+    "Javbus": "SIVR-030",
+    "Arzon": "",
+    "CompletionStatus": 6,
+    "Version": 1,
+    "Genres": [
+        "\u63a5\u543b",
+        "\u7f8e\u5c11\u5973",
+        "\u82d7\u6761",
+        "\u4e3b\u89c2\u89c6\u89d2",
+        "\u5355\u4f53\u4f5c\u54c1",
+        "VR"
+    ],
+    "Actors": [
+        "\u6a4b\u672c\u3042\u308a\u306a"
+    ],
+    "Modify": "2021-09-25 20:24:43"
+}

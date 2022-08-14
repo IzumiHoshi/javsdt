@@ -1,0 +1,37 @@
+{
+    "Car": "SIVR-034",
+    "CarOrigin": "sivr00034",
+    "Series": "\u4ea4\u308f\u308b\u4f53\u6db2\u3001\u6fc3\u5bc6\u30bb\u30c3\u30af\u30b9VR",
+    "Title": "\u3010VR\u3011\u4ea4\u308f\u308b\u4f53\u6db2\u3001\u6fc3\u5bc6\u30bb\u30c3\u30af\u30b9VR",
+    "TitleZh": "\u3010VR\u3011\u4ea4\u878d\u7684\u4f53\u6db2\u3001\u6d53\u539a\u7684\u6027VR",
+    "Plot": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65e0\u7b80\u4ecb\u3011",
+    "PlotZh": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65f6\u65e0\u7b80\u4ecb\u3011",
+    "Review": "",
+    "Release": "2018-11-25",
+    "Runtime": 60,
+    "Director": "ZAMPA",
+    "Studio": "S1 NO.1 STYLE",
+    "Publisher": "S1 VR",
+    "Score": 91,
+    "CoverLibrary": "http://pics.dmm.co.jp/digital/video/sivr00034/sivr00034pl.jpg",
+    "CoverBus": "6ttf_b.jpg",
+    "CutType": 1,
+    "Javdb": "R5dJz",
+    "Javlibrary": "javli7q75m",
+    "Javbus": "SIVR-034",
+    "Arzon": "",
+    "CompletionStatus": 6,
+    "Version": 1,
+    "Genres": [
+        "\u63a5\u543b",
+        "\u5076\u50cf\u827a\u4eba",
+        "\u5de8\u4e73",
+        "\u4e3b\u89c2\u89c6\u89d2",
+        "\u5355\u4f53\u4f5c\u54c1",
+        "VR"
+    ],
+    "Actors": [
+        "\u4e09\u4e0a\u60a0\u4e9c"
+    ],
+    "Modify": "2021-09-25 20:23:38"
+}

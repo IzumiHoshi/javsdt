@@ -1,0 +1,37 @@
+{
+    "Car": "JUFD-163",
+    "CarOrigin": "jufd163",
+    "Series": "\u306c\u3081\u308b\u30e0\u30c1\u5c3b\u5973\u306e\u6975\u4e0a\u30d1\u30f3\u30b9\u30c8\u30bd\u30fc\u30d7",
+    "Title": "\u306c\u3081\u308b\u30e0\u30c1\u5c3b\u5973\u306e\u6975\u4e0a\u30d1\u30f3\u30b9\u30c8\u30bd\u30fc\u30d7",
+    "TitleZh": "\u7c98\u7cca\u7cca\u5c41\u80a1\u5973\u4eba\u7684\u6781\u54c1\u9762\u5305\u7682",
+    "Plot": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65e0\u7b80\u4ecb\u3011",
+    "PlotZh": "\u3010\u5f71\u7247\u4e0b\u67b6\uff0c\u6682\u65f6\u65e0\u7b80\u4ecb\u3011",
+    "Review": "////\u8fd9\u7247\u5fc5\u5c04 \u6211\u53bb\u4e5f\uff01\uff01\uff01////\u7b2c\u4e00\u6b21\u770b\u7684\u65f6\u5019\u6211\u7b80\u76f4\u60ca\u5446\u4e86\uff01\u897f\u91ce\u7fd4\u8eab\u6750\u592a\u5b8c\u7f8e\u4e86\u8170\u7ec6\u5c41\u80a1\u5927\uff01\u9664\u4e86\u80f8\u7565\u5c0f\u4e4b\u5916\uff0c\u53eb\u58f0\u6f14\u6280\u90fd\u5f88\u8d5e\uff01//",
+    "Release": "2011-08-01",
+    "Runtime": 160,
+    "Director": "\u4e95\u5742\u670b\u6cf0",
+    "Studio": "Fitch",
+    "Publisher": "Fitch",
+    "Score": 91,
+    "CoverLibrary": "http://pics.dmm.co.jp/mono/movie/adult/jufd163/jufd163pl.jpg",
+    "CoverBus": "2b5q_b.jpg",
+    "CutType": 1,
+    "Javdb": "5A39",
+    "Javlibrary": "javlipiqry",
+    "Javbus": "JUFD-163",
+    "Arzon": "",
+    "CompletionStatus": 6,
+    "Version": 1,
+    "Genres": [
+        "\u7f8e\u81c0",
+        "\u4e73\u6db2",
+        "\u6570\u4f4d\u9a6c\u8d5b\u514b",
+        "\u604b\u817f\u7656",
+        "\u8fde\u88e4\u889c",
+        "\u8db3\u4ea4"
+    ],
+    "Actors": [
+        "\u897f\u91ce\u7fd4"
+    ],
+    "Modify": "2021-11-21 10:01:01"
+}
