@@ -1,5 +1,6 @@
 /.git/
 /.idea/
+/.vscode/
 /测试/
 /venv/
 /bug/
