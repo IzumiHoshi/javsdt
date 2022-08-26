@@ -26,6 +26,7 @@ from Functions.Metadata.Car import find_car_youma
 
 
 def CopyVideoOut(Path):
+    validExt = [".mp4", ".mkv", ".avi"]
     buildPath = join(Path, "Build")
     if os.path.exists(buildPath) is False:
         os.makedirs(buildPath)
@@ -37,15 +38,15 @@ def CopyVideoOut(Path):
         if root == buildPath:
             continue
         for filename in files:
-            if filename[-5:] == ".part":
-                break
-            # print(filename)
-            car = find_car_youma(filename, list_suren_car)
+            if filename[-4:].lower() not in validExt:
+                continue
+            car = find_car_youma(filename.upper(), list_suren_car)
             if car == '':
                 continue
             print(f"move({join(root, filename)}, {join(Path, filename)})")
             move(join(root, filename), join(buildPath, filename))
     return buildPath
+
 
 def CopyVideoInside(Path):
     dirs = os.listdir(Path)
